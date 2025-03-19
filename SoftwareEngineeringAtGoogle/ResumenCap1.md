@@ -15,16 +15,16 @@ La ingeniería de software involucra a una gran cantidad de personas en un proye
 ### Tiempo y cambio
 Cuando uno no tiene mucha experiencia, el lapso de vida es medido en horas o días. Los programas no tiene una refactorización ni un mantenimiento a largo plazo.
 
-
-![Img tiempo y costo](https://www.oreilly.com/api/v2/epubs/9781492082781/files/assets/seag_0101.png)
-
+<p align="center">
+    <img src="https://www.oreilly.com/api/v2/epubs/9781492082781/files/assets/seag_0101.png" width="500"/>
+</p>
 
 ### La ley de Hyrum
 Esta ley basicamente indica que:
 > Con una gran cantidad de usuarios, no importa lo que prometas en el contrato: Todos los comportamientos observables en tu sistema serán dependidos de otra persona.
-
-![Img Comic](https://imgs.xkcd.com/comics/workflow_2x.png)
-
+<p align="center">
+    <img src="https://imgs.xkcd.com/comics/workflow_2x.png"width="500" />
+</p>
 
 ### Es necesario el cambio?
 Para la mayoría de los proyectos a largo plazo, tienen que estar abiertos al cambio. Incluso si estuvieras haciendo una aplicación con una tecnología que provee un soporte a largo plazo, tienes que tener en cuenta los avances en el hardware, en la seguridad y en las nuevas innovaciones de la humanidad. Nunca puedes quedarte sin adaptarte al cambio.
@@ -45,7 +45,9 @@ Para la mayoría de los proyectos a largo plazo, tienen que estar abiertos al ca
 ### Shifting Left
 Este termino indica que considerando la linea de tiempo del flujo de trabajo de los desarrolladores, cuando mas a la izquierda se detecte un problema, entonces se es fácil y barato de arreglar.
 
-![Img Shifting Left](https://www.oreilly.com/api/v2/epubs/9781492082781/files/assets/seag_0102.png)
+<p align="center">
+    <img src="https://www.oreilly.com/api/v2/epubs/9781492082781/files/assets/seag_0102.png" width="500"/>
+</p>
 
 ### Compensaciones y costos
 El costo no solo se refiere a los dolares o cualquier otra moneda. Los costos abarcan:
